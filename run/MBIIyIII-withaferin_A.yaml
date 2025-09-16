@@ -5,7 +5,7 @@ sequences:
       sequence: DNDGGGGSFSTADQLEMVTELLGGDMVNQSFICDPDDETFIKNIIIQDCMWSGFSAAAKLVSEKLASYQAARKDSGSPNPARGHSVCSTSSLYLQDLSAAASECIDPSVVFPYPLNDSSSPKSCASQDSSAFSPSSDSLLSSTESSPQGSPEPLVLHEETPPTTSSDSEEEQEDEEEIDVVSVEKRQAPGKRSESGSPSA
   - ligand:
       id: [L]
-      smiles: 'CC1=C(C(=O)O[C@H](C1)[C@@H](C)[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3C[C@@H]5[C@]6([C@@]4(C(=O)C=C[C@@H]6O)C)O5)C)CO'
+      smiles: '[H]OC([H])([H])C1=C(C([H])([H])[H])C([H])([H])[C@]([H])([C@@]([H])(C([H])([H])[H])[C@@]2([H])C([H])([H])C([H])([H])[C@@]3([H])[C@]4([H])C([H])([H])[C@@]5([H])O[C@@]56[C@](C([H])([H])[H])(C(=O)C([H])=C([H])[C@]6([H])O[H])[C@@]4([H])C([H])([H])C([H])([H])[C@@]32C([H])([H])[H])OC1=O'
 properties:
     - affinity:
-        binder: L
+        binder: M
